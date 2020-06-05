@@ -8,5 +8,6 @@
     [TerritoryID] BIGINT          NOT NULL,
     [OrderDate]   DATETIME2 (7)   NOT NULL
     -- extra text
+    -- en nog een wijziging
 
 
